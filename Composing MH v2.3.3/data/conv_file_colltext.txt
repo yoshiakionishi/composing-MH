@@ -1,0 +1,9 @@
+0, none_selected 0;
+1, bowl chris2.wav;
+2, droplet chris1.wav;
+3, stomping lauren1.wav;
+4, whistle tyler1.wav;
+5, cough tyler2.wav;
+6, paper_crumpling tyler3.wav;
+7, elevator_signal clare1.wav;
+8, pencil clare2.wav;
